@@ -85,3 +85,5 @@ c:\users\gene\documents\visual studio 2015\Projects\GigHub\GigHub\obj\Debug\GigH
 c:\Users\Gene\Documents\Visual Studio 2015\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
 c:\Users\Gene\Documents\Visual Studio 2015\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
 c:\Users\Gene\Documents\Visual Studio 2015\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+C:\Users\Gene\documents\visual studio 2015\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.newchanges.resources
+C:\Users\Gene\documents\visual studio 2015\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
